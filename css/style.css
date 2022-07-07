@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Display:wght@100&family=Open+Sans&display=swap");
 body {
-  background-image: url("../images/fondo.png");
+  /* background-image: url("../images/fondo.png"); */
+  background-color: #00B2C5;
   background-size: cover;
   font-family: "Noto Sans Display", sans-serif;
   font-size: large;
